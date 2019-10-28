@@ -1,7 +1,7 @@
 ---
-title: "The butler"
+title: The butler
 date: 2019-02-07T12:37:00.000Z
-image: /images/butler.jpg
+image: /images/blue-crocs-2.0.png
 tags:
   - Cecil
   - SSG
